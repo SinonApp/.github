@@ -3,14 +3,12 @@
 
 ```
 
-                                                                                                                                 
-      _/_/_/  _/                                     _/_/_/            _/              _/      _/                                
-   _/            _/_/_/      _/_/    _/_/_/       _/          _/_/    _/  _/    _/  _/_/_/_/        _/_/    _/_/_/      _/_/_/   
-    _/_/    _/  _/    _/  _/    _/  _/    _/       _/_/    _/    _/  _/  _/    _/    _/      _/  _/    _/  _/    _/  _/_/        
-       _/  _/  _/    _/  _/    _/  _/    _/           _/  _/    _/  _/  _/    _/    _/      _/  _/    _/  _/    _/      _/_/     
-_/_/_/    _/  _/    _/    _/_/    _/    _/     _/_/_/      _/_/    _/    _/_/_/      _/_/  _/    _/_/    _/    _/  _/_/_/        
-                                                                                                                                 
-                                                                                                                                 
+  .dBBBBP   dBP dBBBBb  dBBBBP dBBBBb    .dBBBBP   dBBBBP dBP    dBP dBP dBBBBBBP dBP dBBBBP dBBBBb.dBBBBP
+  BP               dBP dBP.BP     dBP    BP       dBP.BP                             dBP.BP     dBPBP     
+  `BBBBb  dBP dBP dBP dBP.BP dBP dBP     `BBBBb  dBP.BP dBP    dBP dBP    dBP   dBP dBP.BP dBP dBP `BBBBb 
+     dBP dBP dBP dBP dBP.BP dBP dBP         dBP dBP.BP dBP    dBP_dBP    dBP   dBP dBP.BP dBP dBP     dBP 
+dBBBBP' dBP dBP dBP dBBBBP dBP dBP     dBBBBP' dBBBBP dBBBBP dBBBBBP    dBP   dBP dBBBBP dBP dBP dBBBBP'  
+                                                                                                          
 
 ```
 
